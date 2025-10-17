@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { useThemeContext } from '@/contexts/ThemeContext';
 import logo from '../assets/investment-calculator-logo.png';
