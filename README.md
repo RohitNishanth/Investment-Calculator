@@ -45,8 +45,8 @@ A modern, feature-rich investment calculator built with React, TypeScript, and T
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/investment-calculator.git
-   cd investment-calculator
+   git clone https://github.com/RohitNishanth/Investment-Calculator.git
+   cd Investment-Calculator
    ```
 
 2. **Install dependencies**
@@ -207,4 +207,4 @@ If you have any questions or need help, please:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Rohit Nishanth**
